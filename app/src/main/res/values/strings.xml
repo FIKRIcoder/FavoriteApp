@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FavoriteApp</string>
+    <string name="image_content">image_content</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="description">description</string>
+    <string name="overview">Overview</string>
+</resources>

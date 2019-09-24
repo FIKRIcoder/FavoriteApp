@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal">15dp</dimen>
+    <dimen name="vertical">15dp</dimen>
+    <dimen name="txt_title">20sp</dimen>
+    <dimen name="text">15sp</dimen>
+    <dimen name="card_corner">3dp</dimen>
+    <dimen name="collapsing">350dp</dimen>
+    <dimen name="text_card_horizontal">10dp</dimen>
+    <dimen name="overviewtext">17sp</dimen>
+</resources>
